@@ -91,6 +91,7 @@ See [More Usage](#more-usage).
 ![synthetic_Data](figures/synthetic_Data.jpg)
 
 <!-- 
+
 # Results
 In this part, we present the clean models that do not use extra detection data or tricks.
 ### COCO Instance Segmentation and Object Detection
