@@ -159,6 +159,7 @@ hidden dimension `1024` (`hid 1024`) and not using mask-enhance initialization (
 </tr>
 </tbody></table>
 
+
 ### COCO Panoptic Segmentation
 
 <table><tbody>
@@ -237,6 +238,9 @@ You can also find all these models [here](https://github.com/IDEA-Research/detre
 All models were trained with  **4** NVIDIA A100 GPUs (ResNet-50 based models) or **8** NVIDIA A100 GPUs (Swin-L based models).
 
 We will release more pretrained models in the future.
+
+-->
+
 # Getting Started
 
 In the above tables, the "Name" column contains a link `config_path` to the config file, and the corresponding model checkpoints
