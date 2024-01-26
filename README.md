@@ -62,9 +62,9 @@ Framework for Object Detection and Segmentation](https://arxiv.org/abs/2206.0277
 
 ## Installation
 
-See [Mask DINO](https://github.com/IDEA-Research/MaskDINO/blob/main/INSTALL.md)
+See [Mask DINO](https://github.com/IDEA-Research/MaskDINO/blob/main/INSTALL.md).
 
-
+<!-- 
 ## Getting Started
 See [Inference Demo with Pre-trained Model](demo/README.md)
 
@@ -75,8 +75,9 @@ See [Preparing Datasets for MaskDINO](datasets/README.md).
 See [Getting Started](#getting-started-1).
 
 See [More Usage](#more-usage).
+-->
 
-![MaskDINO](figures/framework.jpg)
+![GEM](figures/framework.jpg)
 
 ***
 
