@@ -62,7 +62,7 @@ Framework for Object Detection and Segmentation](https://arxiv.org/abs/2206.0277
 
 ## Installation
 
-See [installation instructions](INSTALL.md).
+See [installation instructions]([INSTALL.md](https://github.com/IDEA-Research/MaskDINO/blob/main/INSTALL.md)).
 
 
 
