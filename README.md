@@ -82,6 +82,16 @@ See [More Usage](#more-usage).
 ***
 
 # Results
+![Results](figures/result_on_GlassSemNet.jpg)
+
+***
+![Qualitative_comparisons](figures/Qualitative_comparisons.jpg)
+
+***
+![synthetic_Data](figures/synthetic_Data.jpg)
+
+<!-- 
+# Results
 In this part, we present the clean models that do not use extra detection data or tricks.
 ### COCO Instance Segmentation and Object Detection
  we follow DINO to use hidden dimension `2048` in the encoder of feedforward by default. We also use the mask-enhanced
@@ -293,6 +303,7 @@ You can easily replace each of these three components with your own implementati
 
 * **transformer decoder**: it mainly follows DINO decoder to do detection and segmentation tasks. It is defined in `maskdino/modeling/transformer_decoder`.
 
+-->
 
 ## LICNESE
 Mask DINO is released under the Apache 2.0 license. Please see the [LICENSE](LICNESE) file for more information.
