@@ -47,15 +47,13 @@ Framework for Object Detection and Segmentation](https://arxiv.org/abs/2206.0277
 <details open>
 <summary> <font size=8><strong>Todo list</strong></font> </summary>
 
-- [x] Release code and checkpoints
+- [x] Release code and GEM-Tiny checkpoint
+
+- [ ] Release S-GSD dataset
+
+- [ ] Release multiple pre-trained models
   
-- [ ] Release model conversion checkpointer from DINO to MaskDINO
- 
-- [ ] Release GPU cluster submit scripts based on submitit for multi-node training
- 
-- [ ] Release EMA training for large models
- 
-- [ ] Release more large models
+- [ ] Release GEM-Base model
 </details>
 
 
