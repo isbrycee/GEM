@@ -1,6 +1,7 @@
 # <img src="figures/gem (3).png" width="30"> GEM 
 
 The official implementation of paper "GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis"
+
 Paper: https://arxiv.org/pdf/2401.15282.pdf
 <!-- 
 [Feng Li*](https://fengli-ust.github.io/), [Hao Zhang*](https://scholar.google.com/citations?user=B8hPxMQAAAAJ&hl=zh-CN), [Huaizhe Xu](https://scholar.google.com/citations?user=zgaTShsAAAAJ&hl=en&scioq=Huaizhe+Xu), [Shilong Liu](https://www.lsl.zone/), [Lei Zhang](https://scholar.google.com/citations?hl=zh-CN&user=fIlGZToAAAAJ), [Lionel M. Ni](https://scholar.google.com/citations?hl=zh-CN&user=OzMYwDIAAAAJ), and [Heung-Yeung Shum](https://scholar.google.com.hk/citations?user=9akH-n8AAAAJ&hl=en).
