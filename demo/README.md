@@ -9,13 +9,13 @@ Please see [Getting Started with Detectron2](https://github.com/facebookresearch
 
 1. Pick a model and its config file
 - for example
-   - config file at `/configs/coco/instance-segmentation/maskdino_R50_bs16_50ep_3s.yaml`.
-   - Model file [MaskDINO (hid 1024) ](https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth)
+   - config file at `/configs/gsd-s/semantic-segmentation/gem_sam_tiny_bs32_iter1w_steplr.yaml`.
+   - Model file [GEM](https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth)
 2. We provide `demo.py` that is able to demo builtin configs. 
 3. Run it with:
 ```
 cd demo/
-python demo.py --config-file /configs/coco/instance-segmentation/maskdino_R50_bs16_50ep_3s.yaml \
+python demo.py --config-file /configs/gsd-s/semantic-segmentation/gem_sam_tiny_bs32_iter1w_steplr.yaml \
   --input input1.jpg input2.jpg \
   [--other-options]
   --opts MODEL.WEIGHTS /path/to/model_file

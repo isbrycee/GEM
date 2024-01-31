@@ -64,18 +64,18 @@ Framework for Object Detection and Segmentation](https://arxiv.org/abs/2206.0277
 
 See [Mask DINO](https://github.com/IDEA-Research/MaskDINO/blob/main/INSTALL.md).
 
-<!-- 
+
 ## Getting Started
-See [Inference Demo with Pre-trained Model](demo/README.md)
+<!-- See [Inference Demo with Pre-trained Model](demo/README.md) -->
 
 See [Results](#results).
 
-See [Preparing Datasets for MaskDINO](datasets/README.md).
+See [Preparing Datasets for GEM](datasets/README.md).
 
 See [Getting Started](#getting-started-1).
 
-See [More Usage](#more-usage).
--->
+<!-- See [More Usage](#more-usage). -->
+
 
 ![GEM](figures/framework.jpg)
 
@@ -90,11 +90,11 @@ See [More Usage](#more-usage).
 ***
 ![synthetic_Data](figures/synthetic_Data.jpg)
 
-<!-- 
+
 # Getting Started
 
-In the above tables, the "Name" column contains a link `config_path` to the config file, and the corresponding model checkpoints
-can be downloaded from the link in `model`.
+In the above tables, the "Name" column contains a link `config_path` to the config file.
+The corresponding model checkpoints can be downloaded from the link in ().
 
 If your dataset files are not under this repo, you need to add `export DETECTRON2_DATASETS=/path/to/your/data` or use Symbolic Link `ln -s`
 to link the dataset into this repo before the
@@ -104,28 +104,15 @@ following command first.
   ```sh
   python train_net.py --eval-only --num-gpus 8 --config-file config_path MODEL.WEIGHTS /path/to/checkpoint_file
   ```
-  for example, to reproduce our instance segmentation result, you can copy the config path from the table, download the pretrained checkpoint into `/path/to/checkpoint_file`, and run 
+#### Train GEM to reproduce results
+* Use the above command without `eval-only` will train the model. For MobileSAM/SAM backbones, you need to download its weight from () and specify the path of the pretrained backbones with `MODEL.WEIGHTS /path/to/pretrained_checkpoint`
   ```sh
-  python train_net.py --eval-only --num-gpus 8 --config-file configs/coco/instance-segmentation/maskdino_R50_bs16_50ep_3s_dowsample1_2048.yaml MODEL.WEIGHTS /path/to/checkpoint_file
-  ```
-  which can reproduce the model. 
-#### Train MaskDINO to reproduce results
-* Use the above command without `eval-only` will train the model. For Swin backbones, you need to specify the path of the pretrained backbones with `MODEL.WEIGHTS /path/to/pretrained_checkpoint`
-    ```sh
   python train_net.py --num-gpus 8 --config-file config_path MODEL.WEIGHTS /path/to/checkpoint_file
   ```
-* For ResNet-50 models, training on 8 GPU requires around `15G` memory on each GPU and `3` days training for 50 epochs. 
-* For Swin-L models, training on 8 gpu required memory `60G` on each GPU. If your gpu do not have enough 
-  memory, you may also train with 16 GPUs with distributed training on two nodes.
-* We use total batch size 16 for all our models. If train on 1 GPU, you need to figure out learning rate and batch size by yourself
-    ```sh
-  python train_net.py --num-gpus 1 --config-file config_path SOLVER.IMS_PER_BATCH SET_TO_SOME_REASONABLE_VALUE SOLVER.BASE_LR SET_TO_SOME_REASONABLE_VALUE
-  ```
-
 You can also refer to [Getting Started with Detectron2](https://github.com/facebookresearch/detectron2/blob/master/GETTING_STARTED.md) for full usage.
 
 
-# More Usage
+<!-- # More Usage
 
 ### Mask-enhanced box initialization
 
@@ -155,8 +142,8 @@ You can easily replace each of these three components with your own implementati
   For ResNet-50 models with 4 scales, we use resolution 1/32, 1/16, and 1/8 but you can use arbitrary resolutions here, and follow DINO to additionally downsample
      1/32 to get a 4th scale with 1/64 resolution. For 5-scale models with SwinL, we additional use 1/4 resolution features as in DINO.
 
-* **transformer decoder**: it mainly follows DINO decoder to do detection and segmentation tasks. It is defined in `maskdino/modeling/transformer_decoder`.
--->
+* **transformer decoder**: it mainly follows DINO decoder to do detection and segmentation tasks. It is defined in `maskdino/modeling/transformer_decoder`. -->
+
 
 
 ## <a name="CitingMaskDINO"></a>Citing Mask DINO
