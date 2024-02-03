@@ -65,6 +65,12 @@ Framework for Object Detection and Segmentation](https://arxiv.org/abs/2206.0277
 
 ***
 
+### Features 
+* A simple but accurate segmentation framework, named **GEM**, for glass surface segmentation.
+* Automatically construct a large-scale synthesized glass surface dataset with precise mask annotation, termed **S-GSD**.
+* Surpasses the previous state-of-the-art methods by a large margin (IoU +2.1%).
+
+
 ## Installation
 
 See [Mask DINO](https://github.com/IDEA-Research/MaskDINO/blob/main/INSTALL.md).
