@@ -106,7 +106,7 @@ See [Getting Started](#getting-started-1).
 <th valign="bottom">FPS</th>
 <th valign="bottom">download</th>
 
- <tr><td align="left">GEM-Tiny| <a href="configs/gsd-s/semantic-segmentation/gem_sam_tiny_bs32_iter1w_steplr.yaml">config</a></td>
+ <tr><td align="left">GEM-Tiny | <a href="configs/gsd-s/semantic-segmentation/gem_sam_tiny_bs32_iter1w_steplr.yaml">config</a></td>
 <td align="center">S-GSD-1x</td>    
 <td align="center">0.755</td>
 <td align="center">0.852</td>
@@ -116,7 +116,7 @@ See [Getting Started](#getting-started-1).
 <td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
 
- <tr><td align="left">GEM-Tiny</td>  
+ <tr><td align="left">GEM-Tiny | <a href="configs/gsd-s/semantic-segmentation/gem_sam_tiny_bs32_iter1w_steplr.yaml">config</a></td>
 <td align="center">S-GSD-5x</td>    
 <td align="center">0.757</td>
 <td align="center">0.855</td>
@@ -126,7 +126,7 @@ See [Getting Started](#getting-started-1).
 <td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
 
- <tr><td align="left">GEM-Tiny</td>   
+ <tr><td align="left">GEM-Tiny | <a href="configs/gsd-s/semantic-segmentation/gem_sam_tiny_bs32_iter1w_steplr.yaml">config</a></td>
 <td align="center">S-GSD-10x</td>    
 <td align="center">0.764</td>
 <td align="center">0.866</td>
@@ -136,7 +136,7 @@ See [Getting Started](#getting-started-1).
 <td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
 
- <tr><td align="left">GEM-Tiny</td>
+ <tr><td align="left">GEM-Tiny | <a href="configs/gsd-s/semantic-segmentation/gem_sam_tiny_bs32_iter1w_steplr.yaml">config</a></td>
 <td align="center">S-GSD-20x</td>    
 <td align="center">0.770</td>
 <td align="center">0.865</td>
@@ -146,7 +146,7 @@ See [Getting Started](#getting-started-1).
 <td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
 
- <tr><td align="left">GEM-Base</td> 
+ <tr><td align="left">GEM-Base | <a href="configs/gsd-s/semantic-segmentation/gem_sam_base_bs16_iter2w_steplr.yaml">config</a></td>
 <td align="center">S-GSD-1x</td>    
 <td align="center">0.766</td>
 <td align="center">0.873</td>
@@ -156,7 +156,7 @@ See [Getting Started](#getting-started-1).
 <td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
 
- <tr><td align="left">GEM-Base</td>  
+ <tr><td align="left">GEM-Base | <a href="configs/gsd-s/semantic-segmentation/gem_sam_base_bs16_iter2w_steplr.yaml">config</a></td>
 <td align="center">S-GSD-5x</td>    
 <td align="center">0.769</td>
 <td align="center">0.858</td>
@@ -166,7 +166,7 @@ See [Getting Started](#getting-started-1).
 <td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
 
- <tr><td align="left">GEM-Base</td>
+ <tr><td align="left">GEM-Base | <a href="configs/gsd-s/semantic-segmentation/gem_sam_base_bs16_iter2w_steplr.yaml">config</a></td>
 <td align="center">S-GSD-10x</td>    
 <td align="center">0.774</td>
 <td align="center">0.868</td>
@@ -176,7 +176,7 @@ See [Getting Started](#getting-started-1).
 <td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
 
- <tr><td align="left">GEM-Base</td>
+ <tr><td align="left">GEM-Base | <a href="configs/gsd-s/semantic-segmentation/gem_sam_base_bs16_iter2w_steplr.yaml">config</a></td>
 <td align="center">S-GSD-20x</td>    
 <td align="center">0.774</td>
 <td align="center">0.865</td>
