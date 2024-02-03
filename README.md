@@ -93,6 +93,70 @@ See [Getting Started](#getting-started-1).
 ***
 
 # Results
+
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">Name</th>
+<th valign="bottom">Backbone</th>
+<th valign="bottom">Epochs</th>
+<th valign="bottom">Mask AP</th>
+<th valign="bottom">Box AP</th>
+<th valign="bottom">Params</th>
+<th valign="bottom">GFlops</th>
+<th valign="bottom">download</th>
+
+ <tr><td align="left">MaskDINO (hid 1024) | <a href="configs/coco/instance-segmentation/maskdino_R50_bs16_50ep_3s.yaml">config</a></td>
+<td align="center">R50</td>
+<td align="center">50</td>
+<td align="center">46.1</td>
+<td align="center">51.5</td>
+<td align="center">47M</td>
+<td align="center">226</td>
+<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
+</tr>
+
+ <tr><td align="left">MaskDINO | <a href="configs/coco/instance-segmentation/maskdino_R50_bs16_50ep_3s_dowsample1_2048.yaml">config</a></td>
+<td align="center">R50</td>
+<td align="center">50</td>
+<td align="center">46.3</td>
+<td align="center">51.7</td>
+<td align="center">52M</td>
+<td align="center">286</td>
+<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid2048_3sd1_instance_maskenhanced_mask46.3ap_box51.7ap.pth">model</a></td>
+</tr>
+
+ <tr><td align="left">MaskDINO (no mask enhance) | <a href="configs/coco/instance-segmentation/swin/maskdino_R50_bs16_50ep_4s_dowsample1_2048.yaml">config</a></td>
+<td align="center">Swin-L (IN21k)</td>
+<td align="center">50</td>
+<td align="center">52.1</td>
+<td align="center">58.3</td>
+<td align="center">223</td>
+<td align="center">1326</td>
+<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_swinl_50ep_300q_hid2048_3sd1_instance_mask52.1ap_box58.3ap.pth">model</a></td>
+</tr>
+
+ <tr><td align="left">MaskDINO | <a href="configs/coco/instance-segmentation/swin/maskdino_R50_bs16_50ep_4s_dowsample1_2048.yaml">config</a></td>
+<td align="center">Swin-L (IN21k)</td>
+<td align="center">50</td>
+<td align="center">52.3</td>
+<td align="center">59.0</td>
+<td align="center">223</td>
+<td align="center">1326</td>
+<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_swinl_50ep_300q_hid2048_3sd1_instance_maskenhanced_mask52.3ap_box59.0ap.pth">model</a></td>
+</tr>
+ <tr><td align="left">MaskDINO+O365 data+1.2 x larger image</td>
+<td align="center">Swin-L (IN21k)</td>
+<td align="center">20</td>
+<td align="center">54.5</td>
+<td align="center">---</td>
+<td align="center">223</td>
+<td align="center">1326</td>
+<td align="center">To Release</td>
+</tr>
+</tbody></table>
+
+
 ![Results](figures/result_on_GlassSemNet.jpg)
 
 ***
