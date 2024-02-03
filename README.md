@@ -189,7 +189,7 @@ See [Getting Started](#getting-started-1).
 </tbody></table>
 
 
-![Results](figures/result_on_GlassSemNet.jpg)
+<!--![Results](figures/result_on_GlassSemNet.jpg)-->
 
 ***
 ![Qualitative_comparisons](figures/Qualitative_comparisons.jpg)
