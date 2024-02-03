@@ -200,12 +200,12 @@ See [Getting Started](#getting-started-1).
 
 # Getting Started
 
-In the above tables, the "Name" column contains a link `config_path` to the config file.
-The corresponding model checkpoints can be downloaded from the link in ().
+In the above tables, the corresponding model checkpoints can pre-trained models can be downloaded from the link.
 
 If your dataset files are not under this repo, you need to add `export DETECTRON2_DATASETS=/path/to/your/data` or use Symbolic Link `ln -s`
-to link the dataset into this repo before the
-following command first.
+to link the dataset into this repo before the following command first.
+
+
 #### Evalaluate our pretrained models
 * You can download our pretrained models and evaluate them with the following commands.
   ```sh
