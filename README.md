@@ -116,44 +116,76 @@ See [Getting Started](#getting-started-1).
 <td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
 
- <tr><td align="left">MaskDINO | <a href="configs/coco/instance-segmentation/maskdino_R50_bs16_50ep_3s_dowsample1_2048.yaml">config</a></td>
-<td align="center">R50</td>
-<td align="center">50</td>
-<td align="center">46.3</td>
-<td align="center">51.7</td>
-<td align="center">52M</td>
-<td align="center">286</td>
-<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid2048_3sd1_instance_maskenhanced_mask46.3ap_box51.7ap.pth">model</a></td>
+ <tr><td align="left">GEM-Tiny</td>  
+<td align="center">S-GSD-5x</td>    
+<td align="center">0.757</td>
+<td align="center">0.855</td>
+<td align="center">0.035</td>
+<td align="center">8.54</td>
+<td align="center">16.09</td>
+<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
 
- <tr><td align="left">MaskDINO (no mask enhance) | <a href="configs/coco/instance-segmentation/swin/maskdino_R50_bs16_50ep_4s_dowsample1_2048.yaml">config</a></td>
-<td align="center">Swin-L (IN21k)</td>
-<td align="center">50</td>
-<td align="center">52.1</td>
-<td align="center">58.3</td>
-<td align="center">223</td>
-<td align="center">1326</td>
-<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_swinl_50ep_300q_hid2048_3sd1_instance_mask52.1ap_box58.3ap.pth">model</a></td>
+ <tr><td align="left">GEM-Tiny</td>   
+<td align="center">S-GSD-10x</td>    
+<td align="center">0.764</td>
+<td align="center">0.866</td>
+<td align="center">0.034</td>
+<td align="center">8.62</td>
+<td align="center">16.09</td>
+<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
 
- <tr><td align="left">MaskDINO | <a href="configs/coco/instance-segmentation/swin/maskdino_R50_bs16_50ep_4s_dowsample1_2048.yaml">config</a></td>
-<td align="center">Swin-L (IN21k)</td>
-<td align="center">50</td>
-<td align="center">52.3</td>
-<td align="center">59.0</td>
-<td align="center">223</td>
-<td align="center">1326</td>
-<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_swinl_50ep_300q_hid2048_3sd1_instance_maskenhanced_mask52.3ap_box59.0ap.pth">model</a></td>
+ <tr><td align="left">GEM-Tiny</td>
+<td align="center">S-GSD-20x</td>    
+<td align="center">0.770</td>
+<td align="center">0.865</td>
+<td align="center">0.032</td>
+<td align="center">8.21</td>
+<td align="center">16.09</td>
+<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
- <tr><td align="left">MaskDINO+O365 data+1.2 x larger image</td>
-<td align="center">Swin-L (IN21k)</td>
-<td align="center">20</td>
-<td align="center">54.5</td>
-<td align="center">---</td>
-<td align="center">223</td>
-<td align="center">1326</td>
-<td align="center">To Release</td>
+
+ <tr><td align="left">GEM-Base</td> 
+<td align="center">S-GSD-1x</td>    
+<td align="center">0.766</td>
+<td align="center">0.873</td>
+<td align="center">0.031</td>
+<td align="center">9.44</td>
+<td align="center">11.55</td>
+<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
+
+ <tr><td align="left">GEM-Base</td>  
+<td align="center">S-GSD-5x</td>    
+<td align="center">0.769</td>
+<td align="center">0.858</td>
+<td align="center">0.032</td>
+<td align="center">8.16</td>
+<td align="center">11.55</td>
+<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
+</tr>
+
+ <tr><td align="left">GEM-Base</td>
+<td align="center">S-GSD-10x</td>    
+<td align="center">0.774</td>
+<td align="center">0.868</td>
+<td align="center">0.032</td>
+<td align="center">8.56</td>
+<td align="center">11.55</td>
+<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
+</tr>
+
+ <tr><td align="left">GEM-Base</td>
+<td align="center">S-GSD-20x</td>    
+<td align="center">0.774</td>
+<td align="center">0.865</td>
+<td align="center">0.029</td>
+<td align="center">8.35</td>
+<td align="center">11.55</td>
+<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
+</tr>
+
 </tbody></table>
 
 
