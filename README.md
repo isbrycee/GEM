@@ -192,12 +192,10 @@ See [Getting Started](#getting-started-1).
 <!--![Results](figures/result_on_GlassSemNet.jpg)-->
 
 ***
-
-<img src="https://github.com/isbrycee/GEM-Glass-Segmentor/blob/main/figures/Qualitative_comparisons.jpg" width="500px">
-
+<img src="https://github.com/isbrycee/GEM-Glass-Segmentor/blob/main/figures/Qualitative_comparisons.jpg" width="700px">
 
 ***
-![synthetic_Data](figures/synthetic_Data.jpg)
+<img src="https://github.com/isbrycee/GEM-Glass-Segmentor/blob/main/figures/synthetic_Data.jpg" width="700px">
 
 
 # Getting Started
