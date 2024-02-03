@@ -251,18 +251,16 @@ You can easily replace each of these three components with your own implementati
 
 
 
-## <a name="CitingMaskDINO"></a>Citing Mask DINO
+## <a name="CitingMaskDINO"></a>Citing GEM
 
 If you find our work helpful for your research, please consider citing the following BibTeX entry.
 
 ```BibTeX
-@misc{li2022mask,
-      title={Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation}, 
-      author={Feng Li and Hao Zhang and Huaizhe xu and Shilong Liu and Lei Zhang and Lionel M. Ni and Heung-Yeung Shum},
-      year={2022},
-      eprint={2206.02777},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{hao2024gem,
+  title={GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis},
+  author={Hao, Jing and Liu, Moyun and Hung, Kuo Feng},
+  journal={arXiv preprint arXiv:2401.15282},
+  year={2024}
 }
 ```
 
@@ -282,5 +280,6 @@ If you find the code useful, please also consider the following BibTeX entry.
 ## Acknowledgement
 
 Many thanks to these excellent opensource projects 
-* [Mask DINO](https://github.com/IDEA-Research/MaskDINO) 
+* [Mask DINO](https://github.com/IDEA-Research/MaskDINO)
+* [segment-anything](https://github.com/facebookresearch/segment-anything)
 
