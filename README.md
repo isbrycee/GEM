@@ -105,7 +105,7 @@ See [Getting Started](#getting-started-1).
 <th valign="bottom">download</th>
 
  <tr><td align="left">GEM-Tiny | <a href="configs/gsd-s/semantic-segmentation/gem_sam_tiny_bs32_iter1w_steplr.yaml">config</a></td>
-<td align="center">S-GSD-1x</td>    
+<td align="center">[S-GSD-1x](链接: https://pan.baidu.com/s/1qwzRIFLbwjFq9GSxCmWdLA?pwd=y2t7 提取码: y2t7)</td>    
 <td align="center">0.755</td>
 <td align="center">0.852</td>
 <td align="center">0.038</td>
