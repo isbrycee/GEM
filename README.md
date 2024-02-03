@@ -97,22 +97,22 @@ See [Getting Started](#getting-started-1).
 <table><tbody>
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
-<th valign="bottom">Name</th>
-<th valign="bottom">Backbone</th>
-<th valign="bottom">Epochs</th>
-<th valign="bottom">Mask AP</th>
-<th valign="bottom">Box AP</th>
-<th valign="bottom">Params</th>
-<th valign="bottom">GFlops</th>
+<th valign="bottom">Model</th>
+<th valign="bottom">Pre-trained dataset</th>
+<th valign="bottom">IoU</th>
+<th valign="bottom">F_β</th>
+<th valign="bottom">MAE</th>
+<th valign="bottom">BER</th>
+<th valign="bottom">FPS</th>
 <th valign="bottom">download</th>
 
- <tr><td align="left">MaskDINO (hid 1024) | <a href="configs/coco/instance-segmentation/maskdino_R50_bs16_50ep_3s.yaml">config</a></td>
-<td align="center">R50</td>
-<td align="center">50</td>
-<td align="center">46.1</td>
-<td align="center">51.5</td>
-<td align="center">47M</td>
-<td align="center">226</td>
+ <tr><td align="left">GEM-Tiny</td>
+<td align="center">S-GSD-1x</td>    
+<td align="center">0.755</td>
+<td align="center">0.852</td>
+<td align="center">0.038</td>
+<td align="center">8.39</td>
+<td align="center">16.09</td>
 <td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
 </tr>
 
