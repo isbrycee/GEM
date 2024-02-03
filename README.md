@@ -54,13 +54,12 @@ Framework for Object Detection and Segmentation](https://arxiv.org/abs/2206.0277
 
 - [x] Release code and GEM-Tiny checkpoint
 
-- [ ] Release S-GSD dataset
+- [x] Release S-GSD dataset
 
-- [ ] Release multiple pre-trained models
+- [x] Release multiple pre-trained models
   
-- [ ] Release GEM-Base model
+- [x] Release GEM-Base model
 </details>
-
 
 
 ***
@@ -69,6 +68,8 @@ Framework for Object Detection and Segmentation](https://arxiv.org/abs/2206.0277
 * A simple but accurate segmentation framework, named **GEM**, for glass surface segmentation.
 * Automatically construct a large-scale synthesized glass surface dataset with precise mask annotation, termed **S-GSD**.
 * Surpasses the previous state-of-the-art methods by a large margin (IoU +2.1%).
+
+<img src="https://github.com/isbrycee/GEM-Glass-Segmentor/blob/main/figures/framework.jpg" width="900px">
 
 
 ## Installation
@@ -86,9 +87,6 @@ See [Preparing Datasets for GEM](datasets/README.md).
 See [Getting Started](#getting-started-1).
 
 <!-- See [More Usage](#more-usage). -->
-
-
-![GEM](figures/framework.jpg)
 
 ***
 
