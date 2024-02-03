@@ -192,7 +192,7 @@ See [Getting Started](#getting-started-1).
 <!--![Results](figures/result_on_GlassSemNet.jpg)-->
 
 ***
-![Qualitative_comparisons](figures/Qualitative_comparisons.jpg width="500")
+![Qualitative_comparisons](figures/Qualitative_comparisons.jpg =500x550)
 
 ***
 ![synthetic_Data](figures/synthetic_Data.jpg)
