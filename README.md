@@ -190,7 +190,7 @@ See [Getting Started](#getting-started-1).
 
 </tbody></table>
 
-The download link of S-GSD-5x is blow here:
+The download link of S-GSD-5x is blow here, it be divided into three parts:
 
 Part1: https://pan.baidu.com/s/1CL0x8s1LXdIIoOjcr5wirw?pwd=2ff4
 
@@ -198,6 +198,7 @@ Part2: https://pan.baidu.com/s/18uCDKFmzy7vSmWm1IF4JFQ?pwd=9jqb
 
 Part3: https://pan.baidu.com/s/1Z8pePl9Ps3QtrZB7WQ7aoQ?pwd=8fku
 
+The S-GSD-10x and S-GSD-20x are not released because of the large disk storage, if you want to get these two large-scale datasets, feel free to contact me via isjinghao@gmail.com.
 
 <!--![Results](figures/result_on_GlassSemNet.jpg)-->
 
