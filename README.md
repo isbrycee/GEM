@@ -121,7 +121,8 @@ See [Getting Started](#getting-started-1).
 <td align="center">0.035</td>
 <td align="center">8.54</td>
 <td align="center">16.09</td>
-<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/126FOm3G_FKBHAOv0kuuYyg?pwd=aehh">百度盘链接</a></td>
+
 </tr>
 
  <tr><td align="left">GEM-Tiny | <a href="configs/gsd-s/semantic-segmentation/gem_sam_tiny_bs32_iter1w_steplr.yaml">config</a></td>
@@ -131,7 +132,8 @@ See [Getting Started](#getting-started-1).
 <td align="center">0.034</td>
 <td align="center">8.62</td>
 <td align="center">16.09</td>
-<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1U5xkf0mhJejgnptq8JqBeQ?pwd=skac">百度盘链接</a></td>
+
 </tr>
 
  <tr><td align="left">GEM-Tiny | <a href="configs/gsd-s/semantic-segmentation/gem_sam_tiny_bs32_iter1w_steplr.yaml">config</a></td>
@@ -141,7 +143,7 @@ See [Getting Started](#getting-started-1).
 <td align="center">0.032</td>
 <td align="center">8.21</td>
 <td align="center">16.09</td>
-<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1Wo0iOulD6Qd-RLzB-webcg?pwd=5c8j">百度盘链接</a></td>
 </tr>
 
  <tr><td align="left">GEM-Base | <a href="configs/gsd-s/semantic-segmentation/gem_sam_base_bs16_iter2w_steplr.yaml">config</a></td>
@@ -151,7 +153,7 @@ See [Getting Started](#getting-started-1).
 <td align="center">0.031</td>
 <td align="center">9.44</td>
 <td align="center">11.55</td>
-<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1-UzfguaIPL-y3VJpITQi7w?pwd=ucgt">百度盘链接</a></td>
 </tr>
 
  <tr><td align="left">GEM-Base | <a href="configs/gsd-s/semantic-segmentation/gem_sam_base_bs16_iter2w_steplr.yaml">config</a></td>
@@ -161,7 +163,8 @@ See [Getting Started](#getting-started-1).
 <td align="center">0.032</td>
 <td align="center">8.16</td>
 <td align="center">11.55</td>
-<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1CBAvC77hZa9tqTo_v3RFCA?pwd=i6ui">百度盘链接</a></td>
+
 </tr>
 
  <tr><td align="left">GEM-Base | <a href="configs/gsd-s/semantic-segmentation/gem_sam_base_bs16_iter2w_steplr.yaml">config</a></td>
@@ -171,7 +174,8 @@ See [Getting Started](#getting-started-1).
 <td align="center">0.032</td>
 <td align="center">8.56</td>
 <td align="center">11.55</td>
-<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1VAxVmVXb_zphZng0_FMnVg?pwd=6cv8">百度盘链接</a></td>
+
 </tr>
 
  <tr><td align="left">GEM-Base | <a href="configs/gsd-s/semantic-segmentation/gem_sam_base_bs16_iter2w_steplr.yaml">config</a></td>
@@ -181,7 +185,7 @@ See [Getting Started](#getting-started-1).
 <td align="center">0.029</td>
 <td align="center">8.35</td>
 <td align="center">11.55</td>
-<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1g3swWzY4C6AYYGq2cZVRVQ?pwd=xj3e">百度盘链接</a></td>
 </tr>
 
 </tbody></table>
