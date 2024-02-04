@@ -1,4 +1,4 @@
-# <img src="figures/gem (3).png" width="30"> GEM 
+# <img src="figures/gem (3).png" width="30"> GEM: Glass-Segmentor
 
 
 [Jing Hao](https://scholar.google.com/citations?user=E8R8c00AAAAJ&hl=zh-CN), [Moyun Liu](https://scholar.google.com/citations?user=5gWDxqAAAAAJ&hl=zh-CN), [Kuo Feng Hung](https://scholar.google.com/citations?user=17V5x14AAAAJ&hl=zh-CN).
