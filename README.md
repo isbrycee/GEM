@@ -105,13 +105,13 @@ See [Getting Started](#getting-started-1).
 <th valign="bottom">download</th>
 
  <tr><td align="left">GEM-Tiny | <a href="configs/gsd-s/semantic-segmentation/gem_sam_tiny_bs32_iter1w_steplr.yaml">config</a></td>
-<td align="center">[S-GSD-1x](链接: https://pan.baidu.com/s/1qwzRIFLbwjFq9GSxCmWdLA?pwd=y2t7 提取码: y2t7)</td>    
+<td align="center">S-GSD-1x</td>    
 <td align="center">0.755</td>
 <td align="center">0.852</td>
 <td align="center">0.038</td>
 <td align="center">8.39</td>
 <td align="center">16.09</td>
-<td align="center"><a href="https://github.com/IDEA-Research/detrex-storage/releases/download/maskdino-v0.1.0/maskdino_r50_50ep_300q_hid1024_3sd1_instance_maskenhanced_mask46.1ap_box51.5ap.pth">model</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1i0i0Q-ewYX4zWMuTuqMGpg?pwd=tr14">百度盘链接</a></td>
 </tr>
 
  <tr><td align="left">GEM-Tiny | <a href="configs/gsd-s/semantic-segmentation/gem_sam_tiny_bs32_iter1w_steplr.yaml">config</a></td>
