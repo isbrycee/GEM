@@ -147,7 +147,7 @@ See [Getting Started](#getting-started-1).
 </tr>
 
  <tr><td align="left">GEM-Base | <a href="configs/gsd-s/semantic-segmentation/gem_sam_base_bs16_iter2w_steplr.yaml">config</a></td>
-<td align="center">[S-GSD-1x](https://pan.baidu.com/s/1GnMCKw2Rvt9BoUUvSIWPRw?pwd=jpzb)</td>    
+<td align="center"><a href="https://pan.baidu.com/s/1GnMCKw2Rvt9BoUUvSIWPRw?pwd=jpzb">S-GSD-1x</a></td>    
 <td align="center">0.766</td>
 <td align="center">0.873</td>
 <td align="center">0.031</td>
@@ -189,6 +189,12 @@ See [Getting Started](#getting-started-1).
 </tr>
 
 </tbody></table>
+
+The download link of S-GSD-5x is blow here:
+
+Part1: https://pan.baidu.com/s/1CL0x8s1LXdIIoOjcr5wirw?pwd=2ff4
+Part2: https://pan.baidu.com/s/18uCDKFmzy7vSmWm1IF4JFQ?pwd=9jqb
+Part3: https://pan.baidu.com/s/1Z8pePl9Ps3QtrZB7WQ7aoQ?pwd=8fku
 
 
 <!--![Results](figures/result_on_GlassSemNet.jpg)-->
