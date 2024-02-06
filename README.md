@@ -294,5 +294,5 @@ If you find the code useful, please also consider the following BibTeX entry.
 
 Many thanks to these excellent opensource projects 
 * [Mask DINO](https://github.com/IDEA-Research/MaskDINO)
-* [segment-anything](https://github.com/facebookresearch/segment-anything)
+* [Segment-Anything](https://github.com/facebookresearch/segment-anything)
 
