@@ -237,7 +237,7 @@ https://github.com/isbrycee/GEM-Glass-Segmentor/blob/main/detectron2-main/detect
 The datasets should follow this format:
 
 
-\\
+```
 datasets/
 │
 ├── TED3-X-Ray-6k/
@@ -256,7 +256,9 @@ datasets/
 │   │   │   ├── image3.png
 │   │   │   └── ...
 │   │   └── 
-\\
+```
+
+
 If you want to change the structure of folers, pls fixing here:
 
 https://github.com/isbrycee/GEM-Glass-Segmentor/blob/main/detectron2-main/detectron2/data/datasets/builtin.py#L237
