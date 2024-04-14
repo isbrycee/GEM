@@ -86,13 +86,13 @@ See [Preparing Datasets for GEM](datasets/README.md).
 
 See [Getting Started](#getting-started-1).
 
-<!-- See [More Usage](#more-usage). -->
 
 
 If you want to change the image size in evaluzation, fixing here:
 https://github.com/isbrycee/GEM-Glass-Segmentor/blob/main/detectron2-main/detectron2/data/detection_utils.py#L637
 
 
+<!-- See [More Usage](#more-usage). -->
 
 ***
 
