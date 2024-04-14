@@ -231,8 +231,38 @@ You can also refer to [Getting Started with Detectron2](https://github.com/faceb
 
 
 If you want to change the image size in evaluzation, fixing here:
+
 https://github.com/isbrycee/GEM-Glass-Segmentor/blob/main/detectron2-main/detectron2/data/detection_utils.py#L637
 
+The datasets should follow this format:
+
+datasets/
+│
+├── TED3-X-Ray-6k/
+│   ├── images/
+│   │   ├── training/
+│   │   │   ├── image1.jpg
+│   │   │   └── image2.jpg
+│   │   ├── validation/
+│   │   │   ├── image3.jpg
+│   │   │   └── ...
+│   ├── annotations_zero_one/
+│   │   ├── training/
+│   │   │   ├── image1.png
+│   │   │   └── image2.png
+│   │   ├── validation/
+│   │   │   ├── image3.png
+│   │   │   └── ...
+│   │   └── 
+
+If you want to change the structure of folers, pls fixing here:
+
+https://github.com/isbrycee/GEM-Glass-Segmentor/blob/main/detectron2-main/detectron2/data/datasets/builtin.py#L237
+
+
+If you want to change your custom class name, pls fixing here:
+
+https://github.com/isbrycee/GEM-Glass-Segmentor/blob/main/detectron2-main/detectron2/data/datasets/builtin_meta.py#L231
 
 <!-- # More Usage
 
