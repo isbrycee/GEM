@@ -86,12 +86,6 @@ See [Preparing Datasets for GEM](datasets/README.md).
 
 See [Getting Started](#getting-started-1).
 
-
-
-If you want to change the image size in evaluzation, fixing here:
-https://github.com/isbrycee/GEM-Glass-Segmentor/blob/main/detectron2-main/detectron2/data/detection_utils.py#L637
-
-
 <!-- See [More Usage](#more-usage). -->
 
 ***
@@ -234,6 +228,10 @@ to link the dataset into this repo before the following command first.
   python train_net.py --num-gpus 8 --config-file config_path MODEL.WEIGHTS /path/to/checkpoint_file
   ```
 You can also refer to [Getting Started with Detectron2](https://github.com/facebookresearch/detectron2/blob/master/GETTING_STARTED.md) for full usage.
+
+
+If you want to change the image size in evaluzation, fixing here:
+https://github.com/isbrycee/GEM-Glass-Segmentor/blob/main/detectron2-main/detectron2/data/detection_utils.py#L637
 
 
 <!-- # More Usage
