@@ -6,6 +6,7 @@ Under this directory, detectron2 will look for datasets in the structure describ
 ```
 $DETECTRON2_DATASETS/
   GSD-S/
+  TED3/
 ```
 
 You can set the location for builtin datasets by `export DETECTRON2_DATASETS=/path/to/datasets`.
@@ -25,6 +26,7 @@ If left unset, the default is `./datasets` relative to your current working dire
         ├── annotations
         │   ├── training
         │   └── validation
+```
 
 ## Expected dataset structure for TED3:
 
@@ -47,7 +49,7 @@ datasets/
 │   │   │   ├── image3.png
 │   │   │   └── ...
 │   │   └── 
-
+```
 
 - If you want to change the image size in evaluzation, fixing here:
 
