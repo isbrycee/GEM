@@ -47,7 +47,6 @@ datasets/
 │   │   │   ├── image3.png
 │   │   │   └── ...
 │   │   └── 
-```
 
 
 - If you want to change the image size in evaluzation, fixing here:
