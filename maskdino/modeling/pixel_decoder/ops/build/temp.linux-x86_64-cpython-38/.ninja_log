@@ -1,4 +1,0 @@
-# ninja log v5
-0	7957	1685522944301192561	/home/ssd5/haojing/MaskDINO-main/maskdino/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/home/ssd5/haojing/MaskDINO-main/maskdino/modeling/pixel_decoder/ops/src/cpu/ms_deform_attn_cpu.o	7ba24765482ff921
-2	35909	1685522995093561620	/home/ssd5/haojing/MaskDINO-main/maskdino/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/home/ssd5/haojing/MaskDINO-main/maskdino/modeling/pixel_decoder/ops/src/vision.o	c242889497298066
-3	23425	1685523067580661244	/home/ssd5/haojing/MaskDINO-main/maskdino/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/home/ssd5/haojing/MaskDINO-main/maskdino/modeling/pixel_decoder/ops/src/cuda/ms_deform_attn_cuda.o	6d12e48cc4ca9d69
