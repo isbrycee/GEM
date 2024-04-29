@@ -654,7 +654,8 @@ class TinyViT(nn.Module):
             x = layer(x)
         B, _, C = x.size()
 
-        x = x.view(B, 24, 24, C).contiguous()
+        x = x.view(B, 24, 24, C).contiguous() # for 384
+        # x = x.view(B, 64, 64, C).contiguous() # for 1024
         x = x.permute(0, 3, 1, 2).contiguous()
         x = self.neck(x).contiguous()
         
