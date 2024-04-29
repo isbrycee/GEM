@@ -890,7 +890,7 @@ class D2TinyViT(TinyViT, Backbone):
         mbconv_expand_ratio=4.0,
         local_conv_size=3,
         layer_lr_decay=1.0,
-        super().__init__(img_size=384, in_chans=3, num_classes=1000,
+        super().__init__(img_size=384, in_chans=3, num_classes=1000, # fix here if change the input img_size
                  embed_dims=[64, 128, 160, 320], depths=[2, 2, 6, 2],
                  num_heads=[2, 4, 5, 10],
                  window_sizes=[7, 7, 14, 7],
