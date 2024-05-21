@@ -1,7 +1,7 @@
 # <img src="figures/gem (3).png" width="30"> GEM: Glass-Segmentor
 
 
-[Jing Hao](https://scholar.google.com/citations?user=E8R8c00AAAAJ&hl=zh-CN), [Moyun Liu](https://scholar.google.com/citations?user=5gWDxqAAAAAJ&hl=zh-CN), [Kuo Feng Hung](https://scholar.google.com/citations?user=17V5x14AAAAJ&hl=zh-CN).
+[Jing Hao](https://scholar.google.com/citations?user=E8R8c00AAAAJ&hl=zh-CN), [Moyun Liu](https://scholar.google.com/citations?user=5gWDxqAAAAAJ&hl=zh-CN), [Jinrong Yang](https://scholar.google.com/citations?hl=zh-CN&user=8Of_NYQAAAAJ), [Kuo Feng Hung](https://scholar.google.com/citations?user=17V5x14AAAAJ&hl=zh-CN).
 
 This repository is the official implementation of the [GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis](https://arxiv.org/pdf/2401.15282.pdf). Our code is based on [MaskDINO](https://github.com/IDEA-Research/MaskDINO/tree/main). 
 
