@@ -3,7 +3,7 @@
 
 [Jing Hao](https://scholar.google.com/citations?user=E8R8c00AAAAJ&hl=zh-CN), [Moyun Liu](https://scholar.google.com/citations?user=5gWDxqAAAAAJ&hl=zh-CN), [Jinrong Yang](https://scholar.google.com/citations?hl=zh-CN&user=8Of_NYQAAAAJ), [Kuo Feng Hung](https://scholar.google.com/citations?user=17V5x14AAAAJ&hl=zh-CN).
 
-This repository is the official implementation of the [GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis](https://arxiv.org/pdf/2307.12018). Our code is based on [MaskDINO](https://github.com/IDEA-Research/MaskDINO/tree/main). 
+This repository is the official implementation of the [GEM: Boost Simple Network for Glass Surface Segmentation via Vision Foundation Models](https://arxiv.org/pdf/2307.12018). Our code is based on [MaskDINO](https://github.com/IDEA-Research/MaskDINO/tree/main). 
 
 <!-- 
 [Feng Li*](https://fengli-ust.github.io/), [Hao Zhang*](https://scholar.google.com/citations?user=B8hPxMQAAAAJ&hl=zh-CN), [Huaizhe Xu](https://scholar.google.com/citations?user=zgaTShsAAAAJ&hl=en&scioq=Huaizhe+Xu), [Shilong Liu](https://www.lsl.zone/), [Lei Zhang](https://scholar.google.com/citations?hl=zh-CN&user=fIlGZToAAAAJ), [Lionel M. Ni](https://scholar.google.com/citations?hl=zh-CN&user=OzMYwDIAAAAJ), and [Heung-Yeung Shum](https://scholar.google.com.hk/citations?user=9akH-n8AAAAJ&hl=en).
