@@ -192,6 +192,8 @@ See [Getting Started](#getting-started-1).
 
 </tbody></table>
 
+All pre-trained models can also download from Huggingface: https://huggingface.co/Bryceee/GEM-Glass-Segment-model/tree/main
+
 The download link of S-GSD-5x is blow here, it be divided into three parts:
 
 Part1: https://pan.baidu.com/s/1CL0x8s1LXdIIoOjcr5wirw?pwd=2ff4
