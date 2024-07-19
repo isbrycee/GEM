@@ -192,7 +192,8 @@ See [Getting Started](#getting-started-1).
 
 </tbody></table>
 
-**[07/15/2024] All pre-trained models can also download from [Huggingface]([https://huggingface.co/datasets/Bryceee/S-GSD](https://huggingface.co/Bryceee/GEM-Glass-Segment-model/tree/main)):** 
+**[07/15/2024] All pre-trained models can also download from [Huggingface](https://huggingface.co/Bryceee/GEM-Glass-Segment-model/tree/main)):** 
+
 **[07/18/2024] S-GSD-1x dataset can also download from [Huggingface](https://huggingface.co/datasets/Bryceee/S-GSD ):** 
 
 
